@@ -15,10 +15,8 @@
 * 마스코트 이미지 뿐만 아니라 **애니메이션, 성격 정보, 세계관, 굿즈** 등 다양한 서비스 가이드라인을 제시하여 **브랜드 마케팅**에 참고할 수 있습니다.
 
 ## ✅ 예시
-<img width="875" alt="Screenshot 2024-06-28 at 2 54 14 PM" src="https://github.com/surisurikim/ai_mascot/assets/153485259/b54a1e0c-3200-4e8b-ac91-47ca5b456d7f">
 <img width="875" alt="Screenshot 2024-06-28 at 2 54 24 PM" src="https://github.com/surisurikim/ai_mascot/assets/153485259/869c33b2-0826-4d1c-ad04-793c339ed566">
 <img width="875" alt="Screenshot 2024-06-28 at 2 54 38 PM" src="https://github.com/surisurikim/ai_mascot/assets/153485259/759e000f-0d0c-4c5b-9923-5d962348493d">
-<img width="875" alt="Screenshot 2024-06-28 at 2 54 47 PM" src="https://github.com/surisurikim/ai_mascot/assets/153485259/2a612ace-0599-4d1f-ab52-a927aee2a522">
 
 ## 💼 연락처
 본 프로젝트에 문의가 있으신 분께서는 niceonesuri@gmail.com 으로 연락주시기 바랍니다.
