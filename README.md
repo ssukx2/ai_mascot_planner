@@ -24,6 +24,6 @@
 
 ## 💼 연락처
 본 프로젝트에 문의가 있으신 분께서는 아래 이메일로 연락주시기 바랍니다.
-[김슬] niceonesuri@gmail.com
-[장은지] jej2508@gmail.com
-[김예린] gldmg23@gmail.com
+- [김슬] niceonesuri@gmail.com
+- [장은지] jej2508@gmail.com
+- [김예린] gldmg23@gmail.com
