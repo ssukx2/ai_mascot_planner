@@ -27,3 +27,6 @@
 - [김슬] niceonesuri@gmail.com
 - [장은지] jej2508@gmail.com
 - [김예린] gldmg23@gmail.com
+- [이지훈] jhl19372@gmail.com
+- [김수인] suinkim864@gmail.com
+- [김민지] minzyzana@gmail.com
